@@ -155,29 +155,29 @@ box-shadow:  5px 5px 17px #cacaca,
 .inp-but{
     border-bottom-left-radius: 12px;
     border-top-left-radius: 12px;
-    background: linear-gradient(145deg, #dddddd, #e7e7e7);
-box-shadow:  5px 5px 17px #dddddd,
+    background: linear-gradient(145deg, #d6d6d6, #e7e7e7);
+box-shadow:  5px 5px 17px #cecece,
              -5px -5px 17px #f6f6f6;
   padding-left: 14px;
   padding-right: 14px;
   padding-top: 8px;
   padding-bottom: 8px;
   color: $dark;
-  border:solid 0.8px $brdcolor ;
+  border:solid 0.9px $brdcolor ;
 }
 //INPUT
 
 .inp {
     border-radius: 12px;
-    background: linear-gradient(145deg, #dddddd, #e7e7e7);
-box-shadow:  5px 5px 17px #dddddd,
+    background: linear-gradient(145deg, #d6d6d6, #e7e7e7);
+box-shadow:  5px 5px 17px #cecece,
              -5px -5px 17px #f6f6f6;
     padding-left: 14px;
     padding-right: 14px;
     padding-top: 8px;
     padding-bottom: 8px;
     color: $dark;
-    border:solid 0.8px $brdcolor ;
+    border:solid 0.9px $brdcolor ;
 }
   
 input:focus-visible {    
@@ -301,14 +301,14 @@ box-shadow:  5px 5px 17px #cacaca,
   }
 
   .nvbr-elmnt-active{
-    margin-left: 14px;
-    margin-right: 14px;
+    margin-left: 16px;
+    margin-right: 16px;
     cursor: pointer;
     color: $acent;
   }
   .nvbr-elmnt-inactive{
-    margin-left: 14px;
-    margin-right: 14px;
+    margin-left: 16px;
+    margin-right: 16px;
     cursor: pointer;
     color: $inactive;
   }
